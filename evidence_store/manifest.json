@@ -1,0 +1,15 @@
+{
+  "created_at": "2026-08-11T11:17:17",
+  "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "embedding_device": "cpu",
+  "document_count": 983,
+  "chunk_count": 14062,
+  "embedding_dimension": 384,
+  "failed_count": 0,
+  "failures": [],
+  "updated_at": "2026-08-11T14:05:59",
+  "store_type": "unified_static_evidence",
+  "pdf_document_count": 483,
+  "pubmed_abstract_count": 500,
+  "source_json": "data_sources/team_evidence.json"
+}

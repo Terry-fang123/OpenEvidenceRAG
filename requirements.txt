@@ -1,0 +1,13 @@
+openai
+chromadb
+sentence-transformers
+requests
+beautifulsoup4
+tiktoken
+python-dotenv
+streamlit
+nicegui
+rank-bm25
+
+# Optional: only needed if the project later parses PDF files.
+# pymupdf
